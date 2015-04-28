@@ -26,11 +26,15 @@
       chart.draw(data, {width: 400, height: 240});
     }
     </script>
+
   </head>
 
   <body>
+      
+      <h1>Frequence of shoesizes</h1>
     <!-- div container der holder på chart elementet START-->
     <div id="chart_div"></div>
     <!-- Chart div SLUT-->
+  </div>
   </body>
 </html>
