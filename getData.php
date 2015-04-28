@@ -9,6 +9,8 @@
 // as we have the google chart set to read json, we need to prepare and feed it with data, here
 // we use the php function "file_get_contents" — Which reads an entire file into a string.
 
+// this is a test
+
 
 //This function is similar to file(), except that file_get_contents() returns the file in a string,
 //starting at the specified offset up to maxlen bytes. On failure, file_get_contents() will return FALSE.
