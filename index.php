@@ -2,7 +2,7 @@
 <!-- select DOCTYPE for browsers-->
 <!DOCTYPE html>
 <html>
-    <head>  
+    <head>
         <!-- standard header stuff -->
         <meta charset="UTF-8">
         <title>php graph - shoes</title>
@@ -56,5 +56,5 @@
 </html>
 
 
-<!-- Convert the pie chart to a bar chart by replacing 
+<!-- Convert the pie chart to a bar chart by replacing
 google.visualization.PieChart with google.visualization.BarChart in the code and reloading your browser. -->
