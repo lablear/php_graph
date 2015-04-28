@@ -25,12 +25,13 @@
       var chart = new google.visualization.BarChart(document.getElementById('chart_div'));
       chart.draw(data, {width: 400, height: 240});
     }
-
     </script>
   </head>
 
   <body>
-    <!--Div that will hold the pie chart-->
+    <!-- div container der holder på chart elementet START-->
     <div id="chart_div"></div>
+    <!-- Chart div SLUT-->
   </body>
 </html>
+
