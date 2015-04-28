@@ -28,11 +28,11 @@
                 data.addColumn('string', 'Topping');
                 data.addColumn('number', 'Slices');
                 data.addRows([
-                    ['Mushrooms', 3],
-                    ['Onions', 1],
-                    ['Olives', 1],
-                    ['Zucchini', 1],
-                    ['Pepperoni', 2]
+                    ['42', 3],
+                    ['43', 1],
+                    ['44', 1],
+                    ['45', 1],
+                    ['46', 2]
                 ]);
 
                 // Set chart options
