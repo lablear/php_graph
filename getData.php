@@ -38,7 +38,7 @@ echo $string;
 //You have an associative array containing all the information. To figure out how to access the values you need, you can do the following:
 
 //echo '<pre>' . print_r($json, true) . '</pre>';
-//This will print out the contents of the array in a nice readable format. Then, you access the elements you want, like so:
+//This will print out the contents of the array in a nice readable format. Then, you access the elements you want.
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
